@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.detailed-view-bg-container {
+  background-image: url("https://cdn4.sharechat.com/16101ef1-e630-4a80-ada1-d4cff70b9ab8-09e6394c-f16b-41ac-aa77-d90fe7175c8f_compressed_40.jpg?tenant=sc&referrer=pwa-sharechat-service&f=16101ef1-e630-4a80-ada1-d4cff70b9ab8-09e6394c-f16b-41ac-aa77-d90fe7175c8f_compressed_40.jpg");
+  height: 200vh;
+  background-size: cover;
+}
+.image{
+    padding: 10px;
+    height: 450px;
+    width: 450px;
+}
+
+.About-sai{
+    font-style: oblique;
+ color: skyblue;
+ text-align: center;
+ font-size: 28px;
+ padding: 420px;
+
+}
+.image1{
+    height: 450px;
+    width: 450px;
+    padding: 10px;
+}
+.image2{
+    height: 450px;
+    width: 500px;
+    padding: 10px;
+
+}
+.button{
+    font-size: 35px;
+    padding: 10px;
+    font-weight: bold;
+    font-style: oblique;
+
+}
+.Friend{
+    font-size: 20px;
+    padding: 6px;
+    font-weight: bold;
+    font-style: oblique;
+color: green;
+background-color: gold;
+
+}
+.heading{
+    font-size: 40px;
+    font-weight: bold;
+}
